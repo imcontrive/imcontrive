@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello There👋,
 
-<!--
-**imcontrive/imcontrive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shubham Pandey, a Full Stack JavaScript Developer based  in Gorakhpur, India.
 
-Here are some ideas to get you started:
+### Github Readme Stats 
+----
+<a href="https://profile-summary-for-github.com/user/imcontrive">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=imcontrive&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="my GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcontrive&hide_langs_below=5&layout=compact" alt="my language stats"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Codewars 
+----------------------------------------------------------------------------------------------------------------------------
+<p align="center">
+  <a href="https://www.codewars.com/users/Shubham_Pandey">
+    <img src="https://www.codewars.com/users/Shubham_Pandey/badges/large" />
+  </a>
+</p>  
