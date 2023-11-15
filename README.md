@@ -17,9 +17,20 @@ I'm Shubham Pandey, a motivated full-stack engineer who has experience building 
 ### About Me ###
 ----
 
-Currently, I'm working for codeClash(A online platform for compitative programming). Previously, I did work as a Front-End Engineer at Asetslux ( a newly startup product based company for cloud engineering services and automation in gas and oil industry).
+🚀 Full-stack Javascript Developer | React  | React Native | Node | UI/UX Enthusiast
 
-I have completed my graduation in computer science and engineering from [Dr. A. P. J. Abdul Kalam University](https://aktu.ac.in/), Lucknow and MERN Stack Web Development from [AltCampus](https://altcampus.io/), Dharamshala, Himachal Pradesh.
+Passionate and results-driven Frontend Developer with a Bachelor's degree in Computer Science and 5 years of hands-on experience in React Native development. Proven track record in creating cross-platform applications from concept to deployment. Expertise includes Responsive Design, Material UI, HTML5, and CSS. Well-versed in Agile methodologies, testing, and implementing robust controls. Adept at working with Windows desktop, iPhone, iPad, and Android devices. Formerly contributed to successful projects at Paytm, Locofast, and Fanplay Technologies. Committed to excellence and eager to bring my skills to your dynamic team.
+
+Let's build something amazing together! 🚀
+
+🎓 Education
+
+## B.Tech in Computer Science and Engineering
+    Dr. A. P. J. Abdul Kalam University, Lucknow
+    Graduated with honors
+## M.Tech in [CS] (MMMUT 2020-22)
+    Secured General Rank 15 in the MMMUT 2020 examination
+    Unfortunately, withdrew for personal reasons
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -34,7 +45,7 @@ I have completed my graduation in computer science and engineering from [Dr. A. 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
 - Languages - **HTML, C, CSS, JavaScript and Core Java**
-- Libraries/Frameworks: - **SCSS/SASS, Bootstrap, React, Redux, NodeJS, ExpressJS, REST API, SVG.js and Three.js**
+- Libraries/Frameworks: - **SCSS/SASS, Bootstrap, React, React-Native, Redux, NodeJS, ExpressJS, REST API, SVG.js and Three.js**
 - Databases/ODM: - **MySQL, MongoDB**
 - Tools: - **Git, Github, Developer Tool, Babel, Docker and AWS**
 
