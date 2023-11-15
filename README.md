@@ -23,14 +23,6 @@ Passionate and results-driven Frontend Developer with a Bachelor's degree in Com
 
 Let's build something amazing together! 🚀
 
-🎓 Education
-
-## B.Tech in Computer Science and Engineering
-    Dr. A. P. J. Abdul Kalam University, Lucknow
-    Graduated with honors
-## M.Tech in [CS] (MMMUT 2020-22)
-    Secured General Rank 15 in the MMMUT 2020 examination
-    Unfortunately, withdrew for personal reasons
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
